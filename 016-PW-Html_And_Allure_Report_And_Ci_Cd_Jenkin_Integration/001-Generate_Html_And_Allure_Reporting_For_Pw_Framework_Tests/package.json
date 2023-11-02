@@ -1,0 +1,17 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Program.js",
+  "scripts": {
+    "test": "npx playwright test tests/example.spec.js --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.7",
+    "allure-playwright": "^2.9.2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "001-npm_project_and_playwright_dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Program.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.7"
+  }
+}
